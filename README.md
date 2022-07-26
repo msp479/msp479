@@ -2,12 +2,13 @@
 - 👀 I’m interested in coding and cloud technology...
 - 📫 How to reach me -- mahesh.pullagura.4779@gmail.com
 
+<img src="groot.jpeg" width="200" heiht="100">
 
 ## Skills
 - 👨‍💻 Python, Java
 - ☁️ AWS, Azure
 - 👁️ HTML, CSS, JS, XML
-- 💽 MySQL, SQLDeveloper
+- 💽 MySQL
 - 💻 Linux
 
 <!---
